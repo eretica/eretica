@@ -1,6 +1,7 @@
 # eretica
 [![eretica](https://github-readme-stats.vercel.app/api?username=eretica&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
+[![eretica](https://github-readme-stats.vercel.app/api/top-langs/?username=eretica&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 フリーランスのプログラマ
 
